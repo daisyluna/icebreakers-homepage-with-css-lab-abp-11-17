@@ -27,6 +27,6 @@ nav ul li {
 }
 
 nav a {
-  text-decoration: underline;
+  text-decoration: none;
   color: #007bff;
 }
